@@ -97,7 +97,6 @@ O compartilhamento permite o acesso a arquivos através da rede local utilizando
 
 ![Status do Samba](./samba-status.png)
 
-
 ## 🚀 Próximos passos
 
 O laboratório poderá futuramente receber novos serviços, como:
