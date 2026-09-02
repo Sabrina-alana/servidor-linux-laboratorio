@@ -78,6 +78,26 @@ A configuração permite acessar o servidor de forma segura mesmo fora da rede l
 ![Status do Tailscale](./tailscale-status-safe.png)
 
 
+## 📁 Servidor de arquivos — Samba
+
+Foi configurado um servidor de arquivos utilizando Samba no Linux.
+
+O compartilhamento permite o acesso a arquivos através da rede local utilizando o protocolo SMB.
+
+### Configuração
+
+- Samba 4.19.5-Ubuntu
+- Protocolo SMB3
+- Compartilhamento de arquivos
+- Acesso por dispositivos da rede
+- Controle de sessões e conexões
+- Validação utilizando `smbstatus`
+
+### Evidência da configuração
+
+![Status do Samba](./samba-status.png)
+
+
 ## 🚀 Próximos passos
 
 O laboratório poderá futuramente receber novos serviços, como:
