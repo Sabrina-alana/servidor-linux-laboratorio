@@ -69,6 +69,15 @@ Evidência da identificação e configuração de rede do servidor Linux:
 ![Configuração de rede do servidor](./servidor-linux-rede-safe.png)
 
 
+## 🔐 Acesso remoto com Tailscale
+
+O servidor Linux foi configurado para acesso remoto utilizando Tailscale.
+
+A configuração permite acessar o servidor de forma segura mesmo fora da rede local.
+
+![Status do Tailscale](./tailscale-status-safe.png)
+
+
 ## 🚀 Próximos passos
 
 O laboratório poderá futuramente receber novos serviços, como:
