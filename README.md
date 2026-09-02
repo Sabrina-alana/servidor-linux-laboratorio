@@ -62,6 +62,13 @@ O compartilhamento foi testado utilizando diferentes dispositivos da rede local.
 - Segurança de rede
 - Administração de servidores
 
+## 🖥️ Configuração do servidor
+
+Evidência da identificação e configuração de rede do servidor Linux:
+
+![Configuração de rede do servidor](./servidor-linux-rede-safe.png)
+
+
 ## 🚀 Próximos passos
 
 O laboratório poderá futuramente receber novos serviços, como:
